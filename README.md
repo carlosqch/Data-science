@@ -1,4 +1,3 @@
 # Data-science
 Assignments
-Data obtained from Khan, Zarrar; Thompson, Isaac; Vernon, Chris; Graham, Neal; Wild, Tom B.; Chen, Min, 2022, 
-"Output Data: tethys_v1.3.1_main_ssp_rcp", https://doi.org/10.7910/DVN/VIQEAB, Harvard Dataverse, V1 
+Kole Aspray, Elise; Ainsworth, Elizabeth; McGrath, Jesse; McGrath, Justin; Montes, Christopher; Whetten, Andrew; Ort, Donald; Long, Stephen; Puthuval, Kannan; Mies, Timothy; Bernacchi, Carl; DeLucia, Evan; Dalsing, Bradley; Leakey, Andrew; Li, Shuai; Herriott, Jelena; Miglietta, Franco (2023): SoyFACE Fumigation Data Files. University of Illinois at Urbana-Champaign. https://doi.org/10.13012/B2IDB-3496460_V3
