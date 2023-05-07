@@ -1,4 +1,4 @@
-Date;Hour;CO2 ppm;Hourly Median CO2 (ppm);Hourly Mean O3 (ppb);Hourly Median O3 (ppb);AOT40 (ppm);SUM06 (ppm);W126 (ppm);Ring;Treatment
+Date;Hour;CO2_ppm;Hourly Median CO2 (ppm);Hourly Mean O3 (ppb);Hourly Median O3 (ppb);AOT40 (ppm);SUM06 (ppm);W126 (ppm);Ring;Treatment
 05/01/2001;00:00;;;;;;;;3;CO2
 05/01/2001;01:00;;;;;;;;3;CO2
 05/01/2001;02:00;;;;;;;;3;CO2
