@@ -1,4 +1,4 @@
 # Data-science
 Data obtained from:
 
-Kole Aspray, Elise; Ainsworth, Elizabeth; McGrath, Jesse; McGrath, Justin; Montes, Christopher; Whetten, Andrew; Ort, Donald; Long, Stephen; Puthuval, Kannan; Mies, Timothy; Bernacchi, Carl; DeLucia, Evan; Dalsing, Bradley; Leakey, Andrew; Li, Shuai; Herriott, Jelena; Miglietta, Franco (2023): SoyFACE Fumigation Data Files. University of Illinois at Urbana-Champaign. https://doi.org/10.13012/B2IDB-3496460_V3
+Laborte, Alice G.; Gutierrez, Mary Anne; Balanza, Jane Girly; Saito, Kazuki; Zwart, Sander J.; Boschetti, Mirco; Murty, MVR; Villano, Lorena; Aunario, Jorrel Khalil; Reinke, Russell; Koo, Jawoo; Hijmans, Robert J.; Nelson, Andrew, 2017, "RiceProduction_v1_variables.tab", RiceAtlas, a spatial database of global rice calendars and production, https://doi.org/10.7910/DVN/JE6R2R/H94ARO, Harvard Dataverse, V3, UNF:6:bacdGVfDmQCunq6Q3kI76w== [fileUNF] 
